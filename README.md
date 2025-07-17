@@ -5,8 +5,7 @@
   <p>
     Analista de Sistemas e Desenvolvedora Front-end, em busca de uma oportunidade de ingressar na área. 
   Com Experiência em HTML, CSS, JavaScript, React, Typescript, Lógica de Programação e Python. Habilidades no Desenvolvimento de
-  interfaces Dinâmicas e responsivas, conhecimento também em Bancos de Dados SQL e MySQL. Proativa, organizada e sempre em busca de aprimoramento para
- desenvolver soluções inovadoras. 
+  interfaces Dinâmicas e responsivas.
   </p>
 </div>
 
