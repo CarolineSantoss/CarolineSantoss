@@ -1,4 +1,4 @@
- ### Oi, me chamo Caroline. Estudante de Ti com foco em Análise de Dados e Desenvolvimento Web 👋
+ ### Oi, me chamo Caroline. Estudante de Ti com foco em Análise de Dados e Desenvolvimento Front End 👋
 
 ## 👩🏾‍💻 Um pouco sobre mim:
 <div>
