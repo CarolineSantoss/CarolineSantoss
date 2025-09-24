@@ -3,8 +3,8 @@
 ## 👩🏾‍💻 Um pouco sobre mim:
 <div>
   <p>
-    Analista de Sistemas e Desenvolvedora Front-end, em busca de uma oportunidade de ingressar na área. 
-  Com Experiência em HTML, CSS, JavaScript, React, Typescript, Lógica de Programação e Python. Habilidades no Desenvolvimento de
+    Desenvolvedora Front-end e Web Designer em busca de uma oportunidade de ingressar na área. 
+  Com Experiência em HTML, CSS, Javascript, Figma, Adobe Photoshop, Adobe Illustrator, UI/UX. Habilidades no Desenvolvimento de
   interfaces Dinâmicas e responsivas.
   </p>
 </div>
